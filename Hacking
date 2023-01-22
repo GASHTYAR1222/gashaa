@@ -93,10 +93,7 @@ ____________
  '########::'########:'########:::::'###::::'########::
  ##.... ##: ##.....:: ##.... ##:::'## ##::: ##.... ##:
  ##:::: ##: ##::::::: ##:::: ##::'##:. ##:: ##:::: ##:
- ##:::: ##: ######::: ##:::: ##:'##:::. ##: ########::
- ##:::: ##: ##...:::: ##:::: ##: #########: ##.. ##:::
- ##:::: ##: ##::::::: ##:::: ##: ##.... ##: ##::. ##::
- ########:: ########: ########:: ##:::: ##: ##:::. ##:
+ 
 ........:::........::........:::..:::::..::..:::::..::
 -------------------------------------------------------------------------------------------------
 
@@ -158,7 +155,7 @@ def menu(my_name,my_id):
 		birth = tglx+' '+blnx+' '+thnx
 	except:birth = '-'
 	banner()
-	sg = '# 👉AUTHOR : @DEDAR_12 '
+	sg = '# 👉AUTHOR : @m_p_k99 '
 	fx = mark(sg, style='bold green')
 	sol().print(fx)
 	io = '[01]CRACK FROM PUBLIC FRIENDS\n[02]CRACK FROM MULTI ADD [ UNLIMITED ]\n[03]CHECK CRACKING ID RESULT\n[04]CHECKPOINT OPTIONS\n[00]TYPE 00 AND LOGOUT'
@@ -576,7 +573,7 @@ def crack(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	print('\r%sMR_DEDAR✋ %s/%s 👉OK:%s 👉CP:%s 🤏 %s%s%s'%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x), end=' ');sys.stdout.flush()
+	print('\r%sMR_GASHA✋ %s/%s 👉OK:%s 👉CP:%s 🤏 %s%s%s'%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x), end=' ');sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
 	ses = requests.Session()
